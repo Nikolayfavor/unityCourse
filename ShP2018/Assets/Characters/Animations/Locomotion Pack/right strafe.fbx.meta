@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 9e9586edf81c0e247a53bc37900fdd99
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: mixamorig:Head
+    100002: mixamorig:HeadTop_End
+    100004: mixamorig:Hips
+    100006: mixamorig:LeftArm
+    100008: mixamorig:LeftFoot
+    100010: mixamorig:LeftForeArm
+    100012: mixamorig:LeftHand
+    100014: mixamorig:LeftLeg
+    100016: mixamorig:LeftShoulder
+    100018: mixamorig:LeftToe_End
+    100020: mixamorig:LeftToeBase
+    100022: mixamorig:LeftUpLeg
+    100024: mixamorig:Neck
+    100026: mixamorig:RightArm
+    100028: mixamorig:RightFoot
+    100030: mixamorig:RightForeArm
+    100032: mixamorig:RightHand
+    100034: mixamorig:RightLeg
+    100036: mixamorig:RightShoulder
+    100038: mixamorig:RightToe_End
+    100040: mixamorig:RightToeBase
+    100042: mixamorig:RightUpLeg
+    100044: mixamorig:Spine
+    100046: mixamorig:Spine1
+    100048: mixamorig:Spine2
+    100050: //RootNode
+    400000: mixamorig:Head
+    400002: mixamorig:HeadTop_End
+    400004: mixamorig:Hips
+    400006: mixamorig:LeftArm
+    400008: mixamorig:LeftFoot
+    400010: mixamorig:LeftForeArm
+    400012: mixamorig:LeftHand
+    400014: mixamorig:LeftLeg
+    400016: mixamorig:LeftShoulder
+    400018: mixamorig:LeftToe_End
+    400020: mixamorig:LeftToeBase
+    400022: mixamorig:LeftUpLeg
+    400024: mixamorig:Neck
+    400026: mixamorig:RightArm
+    400028: mixamorig:RightFoot
+    400030: mixamorig:RightForeArm
+    400032: mixamorig:RightHand
+    400034: mixamorig:RightLeg
+    400036: mixamorig:RightShoulder
+    400038: mixamorig:RightToe_End
+    400040: mixamorig:RightToeBase
+    400042: mixamorig:RightUpLeg
+    400044: mixamorig:Spine
+    400046: mixamorig:Spine1
+    400048: mixamorig:Spine2
+    400050: //RootNode
+    7400000: rStrafePotat
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rStrafePotat
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0002
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: general_potat(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: general_potat(Clone)
+      position: {x: -0.38982767, y: -0.13546166, z: 0.2823227}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 757.0784, y: 277.36212, z: 268.51453}
+    - name: Cube.001
+      parentName: general_potat(Clone)
+      position: {x: -0.80199903, y: -0.12591115, z: 0.2823227}
+      rotation: {x: 0.0032466399, y: 0.7036179, z: 0.7105605, w: 0.0038954066}
+      scale: {x: 637.72815, y: 157.46939, z: 152.45247}
+    - name: Cube.002
+      parentName: general_potat(Clone)
+      position: {x: 0.7629888, y: -0.12591115, z: 0.2823227}
+      rotation: {x: 0.003895485, y: 0.7105606, z: -0.70361775, w: -0.0032466417}
+      scale: {x: -637.72815, y: -157.46939, z: -152.45245}
+    - name: Cube.003
+      parentName: general_potat(Clone)
+      position: {x: 0.35081744, y: -0.13546166, z: 0.2823227}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: -757.0784, y: -277.36212, z: -268.51453}
+    - name: Cube.004
+      parentName: general_potat(Clone)
+      position: {x: -0.018458713, y: -0.59521616, z: 0.33009547}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 255.47473, y: 255.47473, z: 265.30884}
+    - name: Cylinder.000
+      parentName: general_potat(Clone)
+      position: {x: -0.037527047, y: -0.026720367, z: 0.51206076}
+      rotation: {x: 0.040856667, y: -0.7059254, z: 0.04085666, w: 0.7059255}
+      scale: {x: 77.12274, y: 77.12275, z: 116.98474}
+    - name: Cylinder.001
+      parentName: general_potat(Clone)
+      position: {x: 0.085941255, y: -0.001141984, z: -0.022514792}
+      rotation: {x: -0.37896115, y: -0.37896112, z: 0.5969828, w: 0.59698284}
+      scale: {x: 13.583172, y: 13.583172, z: 20.60383}
+    - name: Cylinder.002
+      parentName: general_potat(Clone)
+      position: {x: 0.085941255, y: -0.001141984, z: -0.022514792}
+      rotation: {x: -0.37896115, y: -0.37896112, z: 0.5969828, w: 0.59698284}
+      scale: {x: 13.583172, y: 13.583172, z: 20.60383}
+    - name: Cylinder.003
+      parentName: general_potat(Clone)
+      position: {x: 0.015073768, y: -0.02421565, z: 0.5120632}
+      rotation: {x: 0.70496535, y: -0.054990273, z: -0.70496523, w: -0.05499028}
+      scale: {x: -77.12274, y: -77.12275, z: -116.98475}
+    - name: Plane.001
+      parentName: general_potat(Clone)
+      position: {x: 0.0054564346, y: 0.00051787717, z: -0.035236962}
+      rotation: {x: 0.5611671, y: 0.43022266, z: -0.4302228, w: 0.56116694}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.002
+      parentName: general_potat(Clone)
+      position: {x: -0.0023637, y: 0.00031955342, z: -0.03493069}
+      rotation: {x: 0.5611671, y: 0.43022266, z: -0.4302228, w: 0.56116694}
+      scale: {x: -4.9245114, y: -4.9245114, z: -4.9245105}
+    - name: Plane.003
+      parentName: general_potat(Clone)
+      position: {x: -0.0088368645, y: 0.00007508553, z: -0.033393387}
+      rotation: {x: 0.5611671, y: 0.43022266, z: -0.4302228, w: 0.56116694}
+      scale: {x: -7.971901, y: -7.971901, z: -7.971901}
+    - name: Plane.004
+      parentName: general_potat(Clone)
+      position: {x: -0.017167658, y: -0.00023763231, z: -0.027828466}
+      rotation: {x: 0.5141317, y: 0.48545715, z: -0.4854577, w: 0.5141312}
+      scale: {x: -12.7232065, y: -12.7232065, z: -12.723207}
+    - name: Plane.005
+      parentName: general_potat(Clone)
+      position: {x: 0.012289337, y: 0.00086244533, z: -0.036402747}
+      rotation: {x: 0.40378016, y: 0.5804839, z: -0.5804839, w: 0.4037802}
+      scale: {x: -3.2258945, y: -3.225895, z: -3.2258947}
+    - name: Plane.006
+      parentName: general_potat(Clone)
+      position: {x: 0.015420271, y: 0.00086244533, z: -0.03702463}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.007
+      parentName: general_potat(Clone)
+      position: {x: 0.018198615, y: 0.00086244533, z: -0.036576282}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.008
+      parentName: general_potat(Clone)
+      position: {x: 0.020710945, y: 0.00086244533, z: -0.036071587}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.009
+      parentName: general_potat(Clone)
+      position: {x: 0.0222774, y: 0.00086244533, z: -0.034329485}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.010
+      parentName: general_potat(Clone)
+      position: {x: 0.024562763, y: 0.00086244533, z: -0.033268295}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.011
+      parentName: general_potat(Clone)
+      position: {x: 0.026654974, y: 0.00086244533, z: -0.031809554}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.012
+      parentName: general_potat(Clone)
+      position: {x: 0.028697778, y: 0.00086244533, z: -0.030350246}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.013
+      parentName: general_potat(Clone)
+      position: {x: 0.030934853, y: 0.00086244533, z: -0.029189667}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.014
+      parentName: general_potat(Clone)
+      position: {x: 0.033074792, y: 0.00086244533, z: -0.027879726}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.015
+      parentName: general_potat(Clone)
+      position: {x: 0.035167005, y: 0.00086244533, z: -0.026420983}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.016
+      parentName: general_potat(Clone)
+      position: {x: 0.03740464, y: 0.00086244533, z: -0.025210993}
+      rotation: {x: -0.2869414, y: -0.64626974, z: 0.6462698, w: -0.28694147}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.017
+      parentName: general_potat(Clone)
+      position: {x: 0.039717298, y: 0.00086244533, z: -0.024214529}
+      rotation: {x: 0.25291798, y: 0.6603277, z: -0.6603275, w: 0.2529181}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.018
+      parentName: general_potat(Clone)
+      position: {x: 0.041993845, y: 0.00086244533, z: -0.023181126}
+      rotation: {x: 0.25291798, y: 0.6603277, z: -0.6603275, w: 0.2529181}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.019
+      parentName: general_potat(Clone)
+      position: {x: 0.04434012, y: 0.00086244533, z: -0.022440745}
+      rotation: {x: 0.18878713, y: 0.68143934, z: -0.6814392, w: 0.18878709}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.020
+      parentName: general_potat(Clone)
+      position: {x: 0.046796788, y: 0.00086244533, z: -0.021628566}
+      rotation: {x: 0.18878713, y: 0.68143934, z: -0.6814392, w: 0.18878709}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.021
+      parentName: general_potat(Clone)
+      position: {x: 0.04917673, y: 0.00086244533, z: -0.0202052}
+      rotation: {x: 0.18878713, y: 0.68143934, z: -0.6814392, w: 0.18878709}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.022
+      parentName: general_potat(Clone)
+      position: {x: 0.05170741, y: 0.00086244533, z: -0.019696811}
+      rotation: {x: 0.16411425, y: 0.6877983, z: -0.68779826, w: 0.16411437}
+      scale: {x: -3.2258945, y: -3.225895, z: -3.2258947}
+    - name: Plane.023
+      parentName: general_potat(Clone)
+      position: {x: 0.054295477, y: 0.00086244533, z: -0.01886675}
+      rotation: {x: 0.12917815, y: 0.69520724, z: -0.6952072, w: 0.12917817}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.024
+      parentName: general_potat(Clone)
+      position: {x: 0.056940928, y: 0.00086244533, z: -0.017715015}
+      rotation: {x: 0.13969377, y: 0.6931708, z: -0.69317067, w: 0.13969378}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.025
+      parentName: general_potat(Clone)
+      position: {x: 0.059476506, y: 0.00086244533, z: -0.01677691}
+      rotation: {x: 0.13969377, y: 0.6931708, z: -0.69317067, w: 0.13969378}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.026
+      parentName: general_potat(Clone)
+      position: {x: 0.062225103, y: 0.00086244533, z: -0.016002398}
+      rotation: {x: 0.13969377, y: 0.6931708, z: -0.69317067, w: 0.13969378}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.027
+      parentName: general_potat(Clone)
+      position: {x: 0.064706355, y: 0.00086244533, z: -0.0151173975}
+      rotation: {x: 0.13969377, y: 0.6931708, z: -0.69317067, w: 0.13969378}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.028
+      parentName: general_potat(Clone)
+      position: {x: 0.06729667, y: 0.00086244533, z: -0.014092006}
+      rotation: {x: 0.13969377, y: 0.6931708, z: -0.69317067, w: 0.13969378}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.029
+      parentName: general_potat(Clone)
+      position: {x: 0.069938906, y: 0.00086244533, z: -0.013653256}
+      rotation: {x: 0.13969377, y: 0.6931708, z: -0.69317067, w: 0.13969378}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.030
+      parentName: general_potat(Clone)
+      position: {x: 0.072515205, y: 0.00086244533, z: -0.013858415}
+      rotation: {x: -0.10591264, y: -0.6991298, z: 0.6991298, w: -0.10591277}
+      scale: {x: -3.2258945, y: -3.225895, z: -3.2258947}
+    - name: Plane.031
+      parentName: general_potat(Clone)
+      position: {x: 0.07527062, y: 0.00086244533, z: -0.013772585}
+      rotation: {x: 0.07278263, y: 0.7033511, z: -0.703351, w: 0.07278242}
+      scale: {x: -3.2258947, y: -3.2258952, z: -3.2258947}
+    - name: Plane.032
+      parentName: general_potat(Clone)
+      position: {x: 0.07796412, y: 0.00086244533, z: -0.013979078}
+      rotation: {x: -0.038194966, y: -0.7060744, z: 0.7060745, w: -0.038195353}
+      scale: {x: -3.2258942, y: -3.2258947, z: -3.2258947}
+    - name: Plane.033
+      parentName: general_potat(Clone)
+      position: {x: 0.08077348, y: 0.00086244533, z: -0.0143041015}
+      rotation: {x: -0.0064808, y: -0.7070771, z: 0.7070771, w: -0.0064807986}
+      scale: {x: -3.2258945, y: -3.225895, z: -3.2258947}
+    - name: Plane.034
+      parentName: general_potat(Clone)
+      position: {x: 0.08340836, y: 0.00086244533, z: -0.014509926}
+      rotation: {x: -0.0064808, y: -0.7070771, z: 0.7070771, w: -0.0064807986}
+      scale: {x: -3.2258945, y: -3.225895, z: -3.2258947}
+    - name: Plane.035
+      parentName: general_potat(Clone)
+      position: {x: 0.08562984, y: 0.0009855374, z: -0.015592351}
+      rotation: {x: -0.03198582, y: 0.7063831, z: -0.7063829, w: -0.03198536}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.036
+      parentName: general_potat(Clone)
+      position: {x: 0.011675947, y: 0.00051787717, z: -0.03410097}
+      rotation: {x: 0.42152616, y: 0.5677286, z: -0.56772846, w: 0.42152622}
+      scale: {x: -4.464726, y: -4.464726, z: -4.464726}
+    - name: Plane.037
+      parentName: general_potat(Clone)
+      position: {x: 0.015030921, y: 0.0005178772, z: -0.032185245}
+      rotation: {x: 0.42152616, y: 0.5677286, z: -0.56772846, w: 0.42152622}
+      scale: {x: -4.464726, y: -4.464726, z: -4.464726}
+    - name: Plane.038
+      parentName: general_potat(Clone)
+      position: {x: 0.018785506, y: 0.0005178772, z: -0.030503964}
+      rotation: {x: 0.3727226, y: 0.60089767, z: -0.6008974, w: 0.37272274}
+      scale: {x: -4.4647264, y: -4.4647255, z: -4.464726}
+    - name: Plane.039
+      parentName: general_potat(Clone)
+      position: {x: 0.022705277, y: 0.0005178773, z: -0.029456712}
+      rotation: {x: -0.34353977, y: -0.6180457, z: 0.6180456, w: -0.34353983}
+      scale: {x: -4.464726, y: -4.4647255, z: -4.464726}
+    - name: Plane.040
+      parentName: general_potat(Clone)
+      position: {x: 0.026339706, y: 0.00051787734, z: -0.028233804}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.041
+      parentName: general_potat(Clone)
+      position: {x: 0.029461568, y: 0.0005178774, z: -0.026602779}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.042
+      parentName: general_potat(Clone)
+      position: {x: 0.032413665, y: 0.0005178774, z: -0.02473995}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.043
+      parentName: general_potat(Clone)
+      position: {x: 0.035481337, y: 0.0005178774, z: -0.022820968}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.044
+      parentName: general_potat(Clone)
+      position: {x: 0.038396552, y: 0.0005178774, z: -0.020736469}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.045
+      parentName: general_potat(Clone)
+      position: {x: 0.040911533, y: 0.0005178774, z: -0.018036535}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.046
+      parentName: general_potat(Clone)
+      position: {x: 0.043908183, y: 0.0005178774, z: -0.015952965}
+      rotation: {x: 0.31783175, y: 0.63165104, z: -0.6316509, w: 0.3178318}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.047
+      parentName: general_potat(Clone)
+      position: {x: 0.04683629, y: 0.0005178774, z: -0.013965122}
+      rotation: {x: 0.2930158, y: 0.6435385, z: -0.64353836, w: 0.29301596}
+      scale: {x: -4.464726, y: -4.464726, z: -4.464726}
+    - name: Plane.048
+      parentName: general_potat(Clone)
+      position: {x: 0.050527148, y: 0.0005178774, z: -0.01312417}
+      rotation: {x: -0.25772196, y: -0.6584675, z: 0.6584675, w: -0.25772205}
+      scale: {x: -4.464726, y: -4.4647255, z: -4.464726}
+    - name: Plane.049
+      parentName: general_potat(Clone)
+      position: {x: 0.053652354, y: 0.0005178774, z: -0.011874796}
+      rotation: {x: 0.24252984, y: 0.6642133, z: -0.66421324, w: 0.24252993}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.050
+      parentName: general_potat(Clone)
+      position: {x: 0.05681831, y: 0.0005178773, z: -0.010017214}
+      rotation: {x: 0.24252984, y: 0.6642133, z: -0.66421324, w: 0.24252993}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.051
+      parentName: general_potat(Clone)
+      position: {x: 0.06014468, y: 0.00067055627, z: -0.0080491975}
+      rotation: {x: 0.24252985, y: 0.6642133, z: -0.6642133, w: 0.24252976}
+      scale: {x: -4.842096, y: -4.8420954, z: -4.8420954}
+    - name: Plane.052
+      parentName: general_potat(Clone)
+      position: {x: 0.06351698, y: 0.0005178772, z: -0.0075432677}
+      rotation: {x: 0.20908695, y: 0.6754871, z: -0.67548686, w: 0.2090869}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.053
+      parentName: general_potat(Clone)
+      position: {x: 0.06688683, y: 0.0005178772, z: -0.0069938367}
+      rotation: {x: -0.19506827, y: -0.67966783, z: 0.67966783, w: -0.19506826}
+      scale: {x: -4.4647264, y: -4.464726, z: -4.464726}
+    - name: Plane.054
+      parentName: general_potat(Clone)
+      position: {x: 0.07066264, y: 0.000676503, z: -0.0067798574}
+      rotation: {x: -0.14508784, y: -0.6920618, z: 0.69206184, w: -0.14508773}
+      scale: {x: -5.2278724, y: -5.227872, z: -5.227872}
+    - name: Plane.055
+      parentName: general_potat(Clone)
+      position: {x: 0.07409022, y: 0.0005178771, z: -0.006304928}
+      rotation: {x: 0.14508769, y: 0.6920619, z: -0.6920617, w: 0.1450877}
+      scale: {x: -4.464726, y: -4.4647255, z: -4.464726}
+    - name: Plane.056
+      parentName: general_potat(Clone)
+      position: {x: 0.07759776, y: 0.0005178771, z: -0.005766662}
+      rotation: {x: 0.14508769, y: 0.6920619, z: -0.6920617, w: 0.1450877}
+      scale: {x: -4.464726, y: -4.4647255, z: -4.464726}
+    - name: Plane.057
+      parentName: general_potat(Clone)
+      position: {x: 0.08109543, y: 0.0005178771, z: -0.0060956045}
+      rotation: {x: 0.14508769, y: 0.6920619, z: -0.6920617, w: 0.1450877}
+      scale: {x: -4.464726, y: -4.4647255, z: -4.464726}
+    - name: Plane.058
+      parentName: general_potat(Clone)
+      position: {x: 0.08451356, y: 0.0005178771, z: -0.004945984}
+      rotation: {x: 0.14508769, y: 0.6920619, z: -0.6920617, w: 0.1450877}
+      scale: {x: -4.464726, y: -4.4647255, z: -4.464726}
+    - name: Plane.059
+      parentName: general_potat(Clone)
+      position: {x: 0.087924555, y: 0.0005178771, z: -0.00781014}
+      rotation: {x: -0.059147518, y: -0.70462865, z: 0.7046287, w: -0.05914752}
+      scale: {x: -4.4647264, y: -4.4647255, z: -4.464726}
+    - name: Plane.060
+      parentName: general_potat(Clone)
+      position: {x: 0.0004920373, y: 0.00031955342, z: -0.031674787}
+      rotation: {x: 0.5611671, y: 0.43022266, z: -0.4302228, w: 0.56116694}
+      scale: {x: -4.9245114, y: -4.9245114, z: -4.9245105}
+    - name: Plane.061
+      parentName: general_potat(Clone)
+      position: {x: 0.004831639, y: 0.00031955342, z: -0.028748965}
+      rotation: {x: 0.50922525, y: 0.4906013, z: -0.4906017, w: 0.5092249}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.062
+      parentName: general_potat(Clone)
+      position: {x: 0.009082951, y: 0.00031955342, z: -0.026282558}
+      rotation: {x: 0.46115896, y: 0.536034, z: -0.53603387, w: 0.46115905}
+      scale: {x: -4.9245105, y: -4.9245105, z: -4.9245105}
+    - name: Plane.063
+      parentName: general_potat(Clone)
+      position: {x: 0.013179868, y: 0.00031955342, z: -0.02445947}
+      rotation: {x: 0.37673083, y: 0.59839284, z: -0.59839255, w: 0.37673098}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.064
+      parentName: general_potat(Clone)
+      position: {x: 0.01688236, y: 0.00031955342, z: -0.022719696}
+      rotation: {x: 0.3340589, y: 0.6232213, z: -0.62322116, w: 0.33405897}
+      scale: {x: -4.9245105, y: -4.9245105, z: -4.9245105}
+    - name: Plane.065
+      parentName: general_potat(Clone)
+      position: {x: 0.020350676, y: 0.00031955342, z: -0.020680266}
+      rotation: {x: 0.2997989, y: 0.64040667, z: -0.64040655, w: 0.29979897}
+      scale: {x: -4.9245105, y: -4.9245105, z: -4.9245105}
+    - name: Plane.066
+      parentName: general_potat(Clone)
+      position: {x: 0.02416654, y: 0.00031955342, z: -0.019416964}
+      rotation: {x: -0.26922962, y: -0.6538466, z: 0.6538466, w: -0.26922962}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.067
+      parentName: general_potat(Clone)
+      position: {x: 0.027345993, y: 0.00031955342, z: -0.017374834}
+      rotation: {x: -0.26922962, y: -0.6538466, z: 0.6538466, w: -0.26922962}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.068
+      parentName: general_potat(Clone)
+      position: {x: 0.030496934, y: 0.00031955342, z: -0.015452798}
+      rotation: {x: -0.26922962, y: -0.6538466, z: 0.6538466, w: -0.26922962}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.069
+      parentName: general_potat(Clone)
+      position: {x: 0.033316523, y: 0.00031955342, z: -0.012728776}
+      rotation: {x: -0.26922962, y: -0.6538466, z: 0.6538466, w: -0.26922962}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.070
+      parentName: general_potat(Clone)
+      position: {x: 0.036754444, y: 0.00031955342, z: -0.011580545}
+      rotation: {x: 0.25473997, y: 0.6596269, z: -0.6596268, w: 0.25474}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.071
+      parentName: general_potat(Clone)
+      position: {x: 0.039847646, y: 0.00031955342, z: -0.009365924}
+      rotation: {x: 0.25473997, y: 0.6596269, z: -0.6596268, w: 0.25474}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.072
+      parentName: general_potat(Clone)
+      position: {x: 0.043143023, y: 0.00031955342, z: -0.0073581357}
+      rotation: {x: 0.25473997, y: 0.6596269, z: -0.6596268, w: 0.25474}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.073
+      parentName: general_potat(Clone)
+      position: {x: 0.046503466, y: 0.00031955342, z: -0.005623799}
+      rotation: {x: 0.25473997, y: 0.6596269, z: -0.6596268, w: 0.25474}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.074
+      parentName: general_potat(Clone)
+      position: {x: 0.04973611, y: 0.00031955342, z: -0.003138056}
+      rotation: {x: 0.25473997, y: 0.6596269, z: -0.6596268, w: 0.25474}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.075
+      parentName: general_potat(Clone)
+      position: {x: 0.05302916, y: 0.00031955342, z: -0.0013347729}
+      rotation: {x: 0.25473997, y: 0.6596269, z: -0.6596268, w: 0.25474}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.076
+      parentName: general_potat(Clone)
+      position: {x: 0.05672656, y: 0.00031955342, z: 0.000054839587}
+      rotation: {x: -0.22883962, y: -0.6690534, z: 0.6690534, w: -0.2288396}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.077
+      parentName: general_potat(Clone)
+      position: {x: 0.0598252, y: 0.00031955342, z: 0.0027466412}
+      rotation: {x: -0.22883962, y: -0.6690534, z: 0.6690534, w: -0.2288396}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.078
+      parentName: general_potat(Clone)
+      position: {x: 0.067578346, y: 0.00031955342, z: 0.00429154}
+      rotation: {x: 0.15770422, y: 0.68929636, z: -0.6892963, w: 0.15770423}
+      scale: {x: -4.9245105, y: -4.9245105, z: -4.9245105}
+    - name: Plane.079
+      parentName: general_potat(Clone)
+      position: {x: 0.06352104, y: 0.00031955342, z: 0.003999916}
+      rotation: {x: 0.19789757, y: 0.6788495, z: -0.6788494, w: 0.1978976}
+      scale: {x: -4.9245105, y: -4.9245105, z: -4.9245105}
+    - name: Plane.080
+      parentName: general_potat(Clone)
+      position: {x: 0.07135849, y: 0.00031955342, z: 0.00397822}
+      rotation: {x: 0.13219117, y: 0.69464064, z: -0.6946405, w: 0.1321912}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.081
+      parentName: general_potat(Clone)
+      position: {x: 0.07514401, y: 0.00031955342, z: 0.004137804}
+      rotation: {x: 0.13219117, y: 0.69464064, z: -0.6946405, w: 0.1321912}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.082
+      parentName: general_potat(Clone)
+      position: {x: 0.07900556, y: 0.00031955342, z: 0.0050397525}
+      rotation: {x: -0.11598382, y: -0.69752973, z: 0.6975298, w: -0.115983814}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.083
+      parentName: general_potat(Clone)
+      position: {x: 0.0828471, y: 0.00031955342, z: 0.0041852044}
+      rotation: {x: 0.09388137, y: 0.7008469, z: -0.7008468, w: 0.09388138}
+      scale: {x: -4.9245114, y: -4.9245114, z: -4.9245105}
+    - name: Plane.084
+      parentName: general_potat(Clone)
+      position: {x: 0.08647375, y: 0.00031955334, z: 0.003977147}
+      rotation: {x: 0.07382147, y: 0.70324284, z: -0.7032428, w: 0.07382147}
+      scale: {x: -4.9245105, y: -4.9245105, z: -4.9245105}
+    - name: Plane.085
+      parentName: general_potat(Clone)
+      position: {x: -0.013623456, y: -0.00081112375, z: -0.022624345}
+      rotation: {x: 0.47166896, y: 0.5268097, z: -0.5268091, w: 0.47166952}
+      scale: {x: -12.723206, y: -12.723206, z: -12.723207}
+    - name: Plane.086
+      parentName: general_potat(Clone)
+      position: {x: -0.0051276623, y: -0.000058467685, z: -0.018860895}
+      rotation: {x: 0.42651272, y: 0.56399196, z: -0.56399184, w: 0.4265128}
+      scale: {x: -12.723207, y: -12.723207, z: -12.723207}
+    - name: Plane.087
+      parentName: general_potat(Clone)
+      position: {x: 0.005041734, y: -0.00036209277, z: -0.018364735}
+      rotation: {x: 0.38963866, y: 0.59006923, z: -0.59006923, w: 0.3896387}
+      scale: {x: -12.723205, y: -12.723205, z: -12.723207}
+    - name: Plane.088
+      parentName: general_potat(Clone)
+      position: {x: 0.00992735, y: 0.00003232278, z: -0.01816779}
+      rotation: {x: 0.33603787, y: 0.6221564, z: -0.6221563, w: 0.3360379}
+      scale: {x: -10.666155, y: -10.666155, z: -10.666157}
+    - name: Plane.089
+      parentName: general_potat(Clone)
+      position: {x: 0.014650348, y: -0.00036209277, z: -0.017463816}
+      rotation: {x: -0.28947434, y: -0.6451392, z: 0.6451392, w: -0.28947434}
+      scale: {x: -8.514645, y: -8.514645, z: -8.514645}
+    - name: Plane.090
+      parentName: general_potat(Clone)
+      position: {x: 0.019767428, y: -0.00012544327, z: -0.019121822}
+      rotation: {x: 0.20334126, y: 0.6772388, z: -0.6772387, w: 0.2033413}
+      scale: {x: -8.514645, y: -8.514645, z: -8.514645}
+    - name: Plane.091
+      parentName: general_potat(Clone)
+      position: {x: 0.02283932, y: -0.00036209277, z: -0.015536376}
+      rotation: {x: 0.16089247, y: 0.6885591, z: -0.6885591, w: 0.16089246}
+      scale: {x: -8.514645, y: -8.514645, z: -8.514645}
+    - name: Plane.092
+      parentName: general_potat(Clone)
+      position: {x: 0.026740547, y: -0.0002012121, z: -0.0115335565}
+      rotation: {x: 0.13895454, y: 0.6933194, z: -0.6933192, w: 0.13895456}
+      scale: {x: -8.514644, y: -8.514644, z: -8.514645}
+    - name: Plane.093
+      parentName: general_potat(Clone)
+      position: {x: 0.031767797, y: -0.00036209277, z: -0.0062937248}
+      rotation: {x: 0.13895454, y: 0.6933194, z: -0.6933192, w: 0.13895456}
+      scale: {x: -8.514644, y: -8.514644, z: -8.514645}
+    - name: Plane.094
+      parentName: general_potat(Clone)
+      position: {x: 0.036834955, y: -0.00014096647, z: -0.0020348735}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -8.514645, y: -8.514645, z: -8.514645}
+    - name: Plane.095
+      parentName: general_potat(Clone)
+      position: {x: 0.043862388, y: -0.000063199586, z: -0.0011792221}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -10.217384, y: -10.217384, z: -10.217385}
+    - name: Plane.097
+      parentName: general_potat(Clone)
+      position: {x: 0.05034467, y: 0.00008503712, z: 0.0012606486}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -10.764001, y: -10.764001, z: -10.764003}
+    - name: Plane.098
+      parentName: general_potat(Clone)
+      position: {x: 0.055610277, y: -0.00010615252, z: 0.005460098}
+      rotation: {x: -0.09527894, y: -0.7006582, z: 0.7006582, w: -0.09527893}
+      scale: {x: -9.186896, y: -9.186896, z: -9.186898}
+    - name: Plane.099
+      parentName: general_potat(Clone)
+      position: {x: 0.061071873, y: 0.000008718744, z: 0.007497524}
+      rotation: {x: -0.09527894, y: -0.7006582, z: 0.7006582, w: -0.09527893}
+      scale: {x: -9.186896, y: -9.186896, z: -9.186898}
+    - name: Plane.100
+      parentName: general_potat(Clone)
+      position: {x: 0.06517304, y: -0.00022631607, z: 0.008559714}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -7.25529, y: -7.25529, z: -7.2552905}
+    - name: Plane.101
+      parentName: general_potat(Clone)
+      position: {x: 0.06984599, y: -0.00003515679, z: 0.009168951}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -7.25529, y: -7.25529, z: -7.2552905}
+    - name: Plane.102
+      parentName: general_potat(Clone)
+      position: {x: 0.07412095, y: -0.00019495192, z: 0.0073629995}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -7.25529, y: -7.25529, z: -7.2552905}
+    - name: Plane.103
+      parentName: general_potat(Clone)
+      position: {x: 0.079024784, y: -0.000060254948, z: 0.004715559}
+      rotation: {x: 0.095279105, y: 0.70065826, z: -0.7006582, w: 0.09527911}
+      scale: {x: -7.25529, y: -7.25529, z: -7.2552905}
+    - name: Plane.104
+      parentName: general_potat(Clone)
+      position: {x: -0.03720505, y: -0.0005686001, z: 0.0008003446}
+      rotation: {x: 0.39132875, y: 0.5977597, z: -0.5888363, w: 0.37791127}
+      scale: {x: -12.80637, y: -24.901136, z: -12.723207}
+    - name: Plane.105
+      parentName: general_potat(Clone)
+      position: {x: -0.027829345, y: -0.001208087, z: 0.0024225053}
+      rotation: {x: 0.3581028, y: 0.6097232, z: -0.60972315, w: 0.3581029}
+      scale: {x: -12.806369, y: -24.901136, z: -12.723207}
+    - name: Plane.106
+      parentName: general_potat(Clone)
+      position: {x: -0.014234408, y: -0.0014832247, z: 0.0002040014}
+      rotation: {x: 0.3182996, y: 0.63141537, z: -0.63141537, w: 0.31829962}
+      scale: {x: -12.806369, y: -24.901136, z: -12.723207}
+    - name: Plane.107
+      parentName: general_potat(Clone)
+      position: {x: -0.010701407, y: -0.001208087, z: 0.008418431}
+      rotation: {x: 0.31497875, y: 0.6330785, z: -0.6330785, w: 0.31497872}
+      scale: {x: -15.039723, y: -17.499456, z: -12.723207}
+    - name: Plane.108
+      parentName: general_potat(Clone)
+      position: {x: -0.0021726885, y: -0.0014832247, z: 0.0083212955}
+      rotation: {x: 0.25594983, y: 0.6591584, z: -0.6591583, w: 0.25594983}
+      scale: {x: -13.92426, y: -15.531457, z: -12.723207}
+    - name: Plane.109
+      parentName: general_potat(Clone)
+      position: {x: 0.0047665485, y: -0.0011728201, z: 0.0063244877}
+      rotation: {x: 0.19832538, y: 0.6834326, z: -0.68007326, w: 0.17631587}
+      scale: {x: -13.924258, y: -15.531457, z: -12.723208}
+    - name: Plane.110
+      parentName: general_potat(Clone)
+      position: {x: 0.011691206, y: -0.0011728201, z: 0.009130933}
+      rotation: {x: 0.15625879, y: 0.69295657, z: -0.6909527, w: 0.13408485}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.111
+      parentName: general_potat(Clone)
+      position: {x: 0.018866561, y: -0.0016533824, z: 0.0056608557}
+      rotation: {x: 0.10895495, y: 0.7004651, z: -0.6999724, w: 0.08669581}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.112
+      parentName: general_potat(Clone)
+      position: {x: 0.026475932, y: -0.0011321086, z: 0.0069825253}
+      rotation: {x: 0.10895495, y: 0.7004651, z: -0.6999724, w: 0.08669581}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.113
+      parentName: general_potat(Clone)
+      position: {x: 0.03381034, y: -0.0011321086, z: 0.011420014}
+      rotation: {x: 0.10895495, y: 0.7004651, z: -0.6999724, w: 0.08669581}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.114
+      parentName: general_potat(Clone)
+      position: {x: 0.04127604, y: -0.0011321086, z: 0.016358346}
+      rotation: {x: 0.10895495, y: 0.7004651, z: -0.6999724, w: 0.08669581}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.115
+      parentName: general_potat(Clone)
+      position: {x: 0.049597826, y: -0.0011321086, z: 0.01927758}
+      rotation: {x: 0.10895495, y: 0.7004651, z: -0.6999724, w: 0.08669581}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.116
+      parentName: general_potat(Clone)
+      position: {x: 0.05652979, y: -0.0011321086, z: 0.021459134}
+      rotation: {x: 0.10895495, y: 0.7004651, z: -0.6999724, w: 0.08669581}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.117
+      parentName: general_potat(Clone)
+      position: {x: 0.061931994, y: -0.00088102795, z: 0.021642804}
+      rotation: {x: -0.08333983, y: -0.70316213, z: 0.7034821, w: -0.061077233}
+      scale: {x: -13.330052, y: -13.840507, z: -12.722597}
+    - name: Plane.118
+      parentName: general_potat(Clone)
+      position: {x: 0.06856706, y: -0.00088102795, z: 0.01980906}
+      rotation: {x: -0.04156934, y: -0.70554423, z: 0.7071807, w: -0.019362988}
+      scale: {x: -13.330051, y: -13.840507, z: -12.722597}
+    - name: Plane.119
+      parentName: general_potat(Clone)
+      position: {x: 0.075622186, y: -0.00088102795, z: 0.017440645}
+      rotation: {x: -0.04156934, y: -0.70554423, z: 0.7071807, w: -0.019362988}
+      scale: {x: -13.330051, y: -13.840507, z: -12.722597}
+    - name: Plane.120
+      parentName: general_potat(Clone)
+      position: {x: 0.08324064, y: -0.00088102795, z: 0.016700147}
+      rotation: {x: -0.05462373, y: -0.70506614, z: 0.7062923, w: -0.03239211}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.121
+      parentName: general_potat(Clone)
+      position: {x: 0.08284588, y: -0.0017487839, z: 0.029764168}
+      rotation: {x: -0.05462373, y: -0.70506614, z: 0.7062923, w: -0.03239211}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.122
+      parentName: general_potat(Clone)
+      position: {x: 0.074921705, y: -0.0017487839, z: 0.032360397}
+      rotation: {x: -0.05462373, y: -0.70506614, z: 0.7062923, w: -0.03239211}
+      scale: {x: -13.330051, y: -13.840506, z: -12.722597}
+    - name: Plane.123
+      parentName: general_potat(Clone)
+      position: {x: -0.04511955, y: -0.0013884061, z: -0.0027553185}
+      rotation: {x: 0.39443234, y: 0.58687586, z: -0.58687556, w: 0.39443243}
+      scale: {x: -12.80637, y: -24.901136, z: -12.723207}
+    - name: Plane.124
+      parentName: general_potat(Clone)
+      position: {x: -0.05125115, y: -0.001068557, z: -0.007252557}
+      rotation: {x: -0.42569777, y: -0.5646073, z: 0.5646073, w: -0.42569774}
+      scale: {x: -12.80637, y: -24.901138, z: -12.723207}
+    - name: Plane.125
+      parentName: general_potat(Clone)
+      position: {x: -0.048545647, y: -0.0014377194, z: -0.014274514}
+      rotation: {x: -0.45590582, y: -0.5405089, z: 0.5405089, w: -0.4559058}
+      scale: {x: -12.80637, y: -24.901138, z: -12.723207}
+    - name: Plane.126
+      parentName: general_potat(Clone)
+      position: {x: -0.043360975, y: -0.00093967863, z: -0.02250875}
+      rotation: {x: 0.47395554, y: 0.53178716, z: -0.5303546, w: 0.45966572}
+      scale: {x: -12.806369, y: -24.901134, z: -12.723207}
+    - name: Plane.129
+      parentName: general_potat(Clone)
+      position: {x: 0.0882987, y: 0.0010434572, z: -0.017046528}
+      rotation: {x: -0.03198582, y: 0.7063831, z: -0.7063829, w: -0.03198536}
+      scale: {x: -3.2258947, y: -3.225895, z: -3.2258947}
+    - name: Plane.130
+      parentName: general_potat(Clone)
+      position: {x: 0.09059343, y: 0.0005757968, z: -0.009264318}
+      rotation: {x: -0.059147518, y: -0.70462865, z: 0.7046287, w: -0.05914752}
+      scale: {x: -4.4647264, y: -4.4647255, z: -4.464726}
+    - name: Plane.131
+      parentName: general_potat(Clone)
+      position: {x: 0.0897363, y: 0.00031955334, z: 0.00089255074}
+      rotation: {x: -0.028200531, y: -0.7065442, z: 0.7065442, w: -0.02820053}
+      scale: {x: -4.924511, y: -4.924511, z: -4.9245105}
+    - name: Plane.132
+      parentName: general_potat(Clone)
+      position: {x: 0.0897363, y: -0.0035351496, z: 0.0008925509}
+      rotation: {x: 0.7065442, y: -0.028201204, z: 0.028201204, w: 0.70654416}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.133
+      parentName: general_potat(Clone)
+      position: {x: 0.09059343, y: -0.0037913932, z: -0.009264318}
+      rotation: {x: 0.70462865, y: -0.05914785, z: 0.05914786, w: 0.70462865}
+      scale: {x: 4.4647264, y: 4.4647255, z: 4.464726}
+    - name: Plane.134
+      parentName: general_potat(Clone)
+      position: {x: 0.0882987, y: -0.0042590536, z: -0.017046528}
+      rotation: {x: 0.706383, y: 0.031985573, z: -0.031985573, w: 0.706383}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.135
+      parentName: general_potat(Clone)
+      position: {x: 0.079024784, y: -0.0031553414, z: 0.004715559}
+      rotation: {x: 0.7006582, y: -0.095279194, z: 0.09527919, w: 0.7006582}
+      scale: {x: 7.2552876, y: 7.2552876, z: 7.2552905}
+    - name: Plane.136
+      parentName: general_potat(Clone)
+      position: {x: 0.07412095, y: -0.0030206444, z: 0.007363001}
+      rotation: {x: 0.7006582, y: -0.095279194, z: 0.09527919, w: 0.7006582}
+      scale: {x: 7.2552876, y: 7.2552876, z: 7.2552905}
+    - name: Plane.137
+      parentName: general_potat(Clone)
+      position: {x: 0.06984599, y: -0.0031804396, z: 0.009168951}
+      rotation: {x: 0.7006582, y: -0.095279194, z: 0.09527919, w: 0.7006582}
+      scale: {x: 7.2552876, y: 7.2552876, z: 7.2552905}
+    - name: Plane.138
+      parentName: general_potat(Clone)
+      position: {x: 0.06517304, y: -0.0029892803, z: 0.008559714}
+      rotation: {x: 0.7006582, y: -0.095279194, z: 0.09527919, w: 0.7006582}
+      scale: {x: 7.2552876, y: 7.2552876, z: 7.2552905}
+    - name: Plane.139
+      parentName: general_potat(Clone)
+      position: {x: 0.061071873, y: -0.003224315, z: 0.007497524}
+      rotation: {x: 0.7006582, y: -0.0952792, z: 0.0952792, w: 0.7006582}
+      scale: {x: 9.186896, y: 9.186896, z: 9.186898}
+    - name: Plane.140
+      parentName: general_potat(Clone)
+      position: {x: 0.055610277, y: -0.0031094437, z: 0.0054600965}
+      rotation: {x: 0.7006582, y: -0.0952792, z: 0.0952792, w: 0.7006582}
+      scale: {x: 9.186896, y: 9.186896, z: 9.186898}
+    - name: Plane.141
+      parentName: general_potat(Clone)
+      position: {x: 0.05034467, y: -0.003300633, z: 0.0012606488}
+      rotation: {x: 0.7006582, y: -0.095279194, z: 0.09527919, w: 0.7006582}
+      scale: {x: 10.764001, y: 10.764001, z: 10.764003}
+    - name: Plane.142
+      parentName: general_potat(Clone)
+      position: {x: 0.043862388, y: -0.003152397, z: -0.0011792219}
+      rotation: {x: 0.7006582, y: -0.0952792, z: 0.0952792, w: 0.7006582}
+      scale: {x: 10.217383, y: 10.217383, z: 10.217385}
+    - name: Plane.143
+      parentName: general_potat(Clone)
+      position: {x: 0.036834955, y: -0.00307463, z: -0.002034874}
+      rotation: {x: 0.7006582, y: -0.0952792, z: 0.0952792, w: 0.7006582}
+      scale: {x: 8.514643, y: 8.514643, z: 8.514645}
+    - name: Plane.144
+      parentName: general_potat(Clone)
+      position: {x: 0.031767797, y: -0.0028535035, z: -0.0062937248}
+      rotation: {x: 0.69331926, y: -0.13895464, z: 0.13895462, w: 0.6933193}
+      scale: {x: 8.514644, y: 8.514644, z: 8.514645}
+    - name: Plane.145
+      parentName: general_potat(Clone)
+      position: {x: 0.026740547, y: -0.0030143843, z: -0.0115335565}
+      rotation: {x: 0.69331926, y: -0.13895464, z: 0.13895462, w: 0.6933193}
+      scale: {x: 8.514644, y: 8.514644, z: 8.514645}
+    - name: Plane.146
+      parentName: general_potat(Clone)
+      position: {x: 0.02283932, y: -0.0028535035, z: -0.015536376}
+      rotation: {x: 0.6885591, y: -0.16089247, z: 0.16089249, w: 0.68855906}
+      scale: {x: 8.514645, y: 8.514645, z: 8.514645}
+    - name: Plane.147
+      parentName: general_potat(Clone)
+      position: {x: 0.019767426, y: -0.003090153, z: -0.019121822}
+      rotation: {x: 0.67723876, y: -0.20334138, z: 0.20334138, w: 0.6772387}
+      scale: {x: 8.514645, y: 8.514645, z: 8.514645}
+    - name: Plane.148
+      parentName: general_potat(Clone)
+      position: {x: 0.0146503495, y: -0.0028535035, z: -0.017463816}
+      rotation: {x: 0.6451392, y: -0.28947434, z: 0.28947434, w: 0.6451392}
+      scale: {x: 8.514643, y: 8.514643, z: 8.514645}
+    - name: Plane.149
+      parentName: general_potat(Clone)
+      position: {x: 0.009927349, y: -0.003247919, z: -0.01816779}
+      rotation: {x: 0.6221564, y: -0.3360379, z: 0.33603793, w: 0.6221563}
+      scale: {x: 10.666155, y: 10.666155, z: 10.666157}
+    - name: Plane.150
+      parentName: general_potat(Clone)
+      position: {x: 0.0050417325, y: -0.0028535035, z: -0.018364735}
+      rotation: {x: 0.59006923, y: -0.3896387, z: 0.3896387, w: 0.59006923}
+      scale: {x: 12.723205, y: 12.723205, z: 12.723207}
+    - name: Plane.151
+      parentName: general_potat(Clone)
+      position: {x: -0.0051276633, y: -0.0031571286, z: -0.018860895}
+      rotation: {x: 0.56399184, y: -0.42651284, z: 0.42651275, w: 0.56399196}
+      scale: {x: 12.723204, y: 12.723204, z: 12.723207}
+    - name: Plane.152
+      parentName: general_potat(Clone)
+      position: {x: -0.013623457, y: -0.0024044726, z: -0.022624345}
+      rotation: {x: 0.52680963, y: -0.47166908, z: 0.47166952, w: 0.52680916}
+      scale: {x: 12.723202, y: 12.723202, z: 12.723207}
+    - name: Plane.153
+      parentName: general_potat(Clone)
+      position: {x: 0.08647375, y: -0.0035351496, z: 0.0039771474}
+      rotation: {x: 0.7032428, y: -0.07382165, z: 0.07382164, w: 0.7032428}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.154
+      parentName: general_potat(Clone)
+      position: {x: 0.0828471, y: -0.00353515, z: 0.0041852044}
+      rotation: {x: 0.70084685, y: -0.093881465, z: 0.09388147, w: 0.7008468}
+      scale: {x: 4.9245114, y: 4.9245114, z: 4.9245105}
+    - name: Plane.155
+      parentName: general_potat(Clone)
+      position: {x: 0.07900556, y: -0.00353515, z: 0.0050397525}
+      rotation: {x: 0.69752973, y: -0.115983985, z: 0.11598399, w: 0.69752973}
+      scale: {x: 4.9245095, y: 4.9245095, z: 4.9245105}
+    - name: Plane.156
+      parentName: general_potat(Clone)
+      position: {x: 0.07514401, y: -0.00353515, z: 0.0041378043}
+      rotation: {x: 0.69464064, y: -0.13219117, z: 0.13219117, w: 0.6946406}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.157
+      parentName: general_potat(Clone)
+      position: {x: 0.07135849, y: -0.00353515, z: 0.0039782203}
+      rotation: {x: 0.69464064, y: -0.13219117, z: 0.13219117, w: 0.6946406}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.158
+      parentName: general_potat(Clone)
+      position: {x: 0.06352104, y: -0.00353515, z: 0.0039999164}
+      rotation: {x: 0.67884946, y: -0.19789763, z: 0.19789766, w: 0.67884934}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.159
+      parentName: general_potat(Clone)
+      position: {x: 0.067578346, y: -0.00353515, z: 0.0042915405}
+      rotation: {x: 0.6892963, y: -0.1577043, z: 0.1577043, w: 0.68929625}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.160
+      parentName: general_potat(Clone)
+      position: {x: 0.0598252, y: -0.00353515, z: 0.0027466414}
+      rotation: {x: 0.66905344, y: -0.22883976, z: 0.2288398, w: 0.6690533}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.161
+      parentName: general_potat(Clone)
+      position: {x: 0.05672656, y: -0.00353515, z: 0.00005483985}
+      rotation: {x: 0.66905344, y: -0.22883976, z: 0.2288398, w: 0.6690533}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.162
+      parentName: general_potat(Clone)
+      position: {x: 0.05302916, y: -0.00353515, z: -0.0013347733}
+      rotation: {x: 0.65962684, y: -0.2547401, z: 0.2547401, w: 0.6596268}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.163
+      parentName: general_potat(Clone)
+      position: {x: 0.04973611, y: -0.00353515, z: -0.0031380558}
+      rotation: {x: 0.65962684, y: -0.2547401, z: 0.2547401, w: 0.6596268}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.164
+      parentName: general_potat(Clone)
+      position: {x: 0.046503466, y: -0.00353515, z: -0.005623799}
+      rotation: {x: 0.65962684, y: -0.2547401, z: 0.2547401, w: 0.6596268}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.165
+      parentName: general_potat(Clone)
+      position: {x: 0.043143023, y: -0.00353515, z: -0.0073581357}
+      rotation: {x: 0.65962684, y: -0.2547401, z: 0.2547401, w: 0.6596268}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.166
+      parentName: general_potat(Clone)
+      position: {x: 0.039847646, y: -0.00353515, z: -0.009365924}
+      rotation: {x: 0.65962684, y: -0.2547401, z: 0.2547401, w: 0.6596268}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.167
+      parentName: general_potat(Clone)
+      position: {x: 0.036754444, y: -0.00353515, z: -0.011580545}
+      rotation: {x: 0.65962684, y: -0.2547401, z: 0.2547401, w: 0.6596268}
+      scale: {x: 4.92451, y: 4.92451, z: 4.9245105}
+    - name: Plane.168
+      parentName: general_potat(Clone)
+      position: {x: 0.033316523, y: -0.00353515, z: -0.012728776}
+      rotation: {x: 0.6538467, y: -0.26922962, z: 0.26922965, w: 0.65384656}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.169
+      parentName: general_potat(Clone)
+      position: {x: 0.030496934, y: -0.00353515, z: -0.015452798}
+      rotation: {x: 0.6538467, y: -0.26922962, z: 0.26922965, w: 0.65384656}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.170
+      parentName: general_potat(Clone)
+      position: {x: 0.027345993, y: -0.00353515, z: -0.017374834}
+      rotation: {x: 0.6538467, y: -0.26922962, z: 0.26922965, w: 0.65384656}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.171
+      parentName: general_potat(Clone)
+      position: {x: 0.02416654, y: -0.00353515, z: -0.019416964}
+      rotation: {x: 0.6538467, y: -0.26922962, z: 0.26922965, w: 0.65384656}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.172
+      parentName: general_potat(Clone)
+      position: {x: 0.020350676, y: -0.00353515, z: -0.020680266}
+      rotation: {x: 0.64040655, y: -0.29979903, z: 0.29979903, w: 0.64040655}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.173
+      parentName: general_potat(Clone)
+      position: {x: 0.016882362, y: -0.00353515, z: -0.022719696}
+      rotation: {x: 0.6232212, y: -0.3340589, z: 0.33405897, w: 0.6232211}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.174
+      parentName: general_potat(Clone)
+      position: {x: 0.013179868, y: -0.00353515, z: -0.02445947}
+      rotation: {x: 0.59839267, y: -0.37673098, z: 0.37673104, w: 0.5983926}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.175
+      parentName: general_potat(Clone)
+      position: {x: 0.009082952, y: -0.00353515, z: -0.026282558}
+      rotation: {x: 0.5360339, y: -0.461159, z: 0.46115908, w: 0.53603387}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.176
+      parentName: general_potat(Clone)
+      position: {x: 0.004831638, y: -0.00353515, z: -0.028748965}
+      rotation: {x: -0.49060085, y: 0.5092258, z: -0.5092245, w: -0.49060208}
+      scale: {x: 4.924511, y: 4.924511, z: 4.9245105}
+    - name: Plane.177
+      parentName: general_potat(Clone)
+      position: {x: 0.00049203873, y: -0.00353515, z: -0.031674787}
+      rotation: {x: 0.4302227, y: -0.561167, z: 0.5611671, w: 0.43022263}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.178
+      parentName: general_potat(Clone)
+      position: {x: 0.087924555, y: -0.0037334736, z: -0.00781014}
+      rotation: {x: 0.70462865, y: -0.05914785, z: 0.05914786, w: 0.70462865}
+      scale: {x: 4.4647264, y: 4.4647255, z: 4.464726}
+    - name: Plane.179
+      parentName: general_potat(Clone)
+      position: {x: 0.08451356, y: -0.0037334736, z: -0.0049459836}
+      rotation: {x: 0.6920619, y: -0.14508782, z: 0.14508782, w: 0.6920618}
+      scale: {x: 4.464726, y: 4.4647255, z: 4.464726}
+    - name: Plane.180
+      parentName: general_potat(Clone)
+      position: {x: 0.08109543, y: -0.0037334736, z: -0.0060956045}
+      rotation: {x: 0.6920619, y: -0.14508782, z: 0.14508782, w: 0.6920618}
+      scale: {x: 4.464726, y: 4.4647255, z: 4.464726}
+    - name: Plane.181
+      parentName: general_potat(Clone)
+      position: {x: 0.07759776, y: -0.0037334736, z: -0.005766662}
+      rotation: {x: 0.6920619, y: -0.14508782, z: 0.14508782, w: 0.6920618}
+      scale: {x: 4.464726, y: 4.4647255, z: 4.464726}
+    - name: Plane.182
+      parentName: general_potat(Clone)
+      position: {x: 0.07409022, y: -0.0037334736, z: -0.006304928}
+      rotation: {x: 0.6920619, y: -0.14508782, z: 0.14508782, w: 0.6920618}
+      scale: {x: 4.464726, y: 4.4647255, z: 4.464726}
+    - name: Plane.183
+      parentName: general_potat(Clone)
+      position: {x: 0.07066264, y: -0.0038920993, z: -0.0067798574}
+      rotation: {x: 0.6920619, y: -0.14508781, z: 0.14508782, w: 0.6920618}
+      scale: {x: 5.227872, y: 5.227872, z: 5.227872}
+    - name: Plane.184
+      parentName: general_potat(Clone)
+      position: {x: 0.06688683, y: -0.0037334736, z: -0.0069938367}
+      rotation: {x: 0.67966783, y: -0.19506836, z: 0.19506834, w: 0.67966783}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.185
+      parentName: general_potat(Clone)
+      position: {x: 0.06351698, y: -0.0037334736, z: -0.0075432677}
+      rotation: {x: 0.6754869, y: -0.20908701, z: 0.20908697, w: 0.675487}
+      scale: {x: 4.4647264, y: 4.464726, z: 4.464726}
+    - name: Plane.186
+      parentName: general_potat(Clone)
+      position: {x: 0.06014468, y: -0.0038861525, z: -0.0080491975}
+      rotation: {x: 0.6642133, y: -0.2425299, z: 0.24252994, w: 0.66421324}
+      scale: {x: 4.842096, y: 4.8420954, z: 4.8420954}
+    - name: Plane.187
+      parentName: general_potat(Clone)
+      position: {x: 0.05681831, y: -0.0037334736, z: -0.010017214}
+      rotation: {x: 0.6642133, y: -0.24252991, z: 0.24252993, w: 0.66421324}
+      scale: {x: 4.4647264, y: 4.4647264, z: 4.464726}
+    - name: Plane.188
+      parentName: general_potat(Clone)
+      position: {x: 0.053652354, y: -0.0037334736, z: -0.011874796}
+      rotation: {x: 0.6642133, y: -0.24252991, z: 0.24252993, w: 0.66421324}
+      scale: {x: 4.4647264, y: 4.4647264, z: 4.464726}
+    - name: Plane.189
+      parentName: general_potat(Clone)
+      position: {x: 0.050527148, y: -0.0037334738, z: -0.01312417}
+      rotation: {x: 0.6584675, y: -0.25772205, z: 0.2577221, w: 0.65846735}
+      scale: {x: 4.464726, y: 4.4647255, z: 4.464726}
+    - name: Plane.190
+      parentName: general_potat(Clone)
+      position: {x: 0.04683629, y: -0.0037334738, z: -0.013965122}
+      rotation: {x: 0.6435385, y: -0.29301593, z: 0.29301605, w: 0.6435383}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.191
+      parentName: general_potat(Clone)
+      position: {x: 0.043908183, y: -0.0037334738, z: -0.015952965}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.192
+      parentName: general_potat(Clone)
+      position: {x: 0.040911533, y: -0.0037334738, z: -0.018036535}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.193
+      parentName: general_potat(Clone)
+      position: {x: 0.038396552, y: -0.0037334738, z: -0.020736469}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.194
+      parentName: general_potat(Clone)
+      position: {x: 0.035481337, y: -0.0037334738, z: -0.022820968}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.195
+      parentName: general_potat(Clone)
+      position: {x: 0.032413665, y: -0.0037334738, z: -0.02473995}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.196
+      parentName: general_potat(Clone)
+      position: {x: 0.029461568, y: -0.0037334736, z: -0.026602779}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.197
+      parentName: general_potat(Clone)
+      position: {x: 0.026339706, y: -0.0037334736, z: -0.028233804}
+      rotation: {x: 0.631651, y: -0.31783187, z: 0.31783193, w: 0.63165087}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.198
+      parentName: general_potat(Clone)
+      position: {x: 0.022705277, y: -0.0037334736, z: -0.029456712}
+      rotation: {x: 0.6180456, y: -0.34353983, z: 0.3435398, w: 0.6180456}
+      scale: {x: 4.464727, y: 4.464727, z: 4.464726}
+    - name: Plane.199
+      parentName: general_potat(Clone)
+      position: {x: 0.018785505, y: -0.0037334736, z: -0.030503964}
+      rotation: {x: 0.60089743, y: -0.3727228, z: 0.37272277, w: 0.60089743}
+      scale: {x: 4.4647264, y: 4.4647255, z: 4.464726}
+    - name: Plane.200
+      parentName: general_potat(Clone)
+      position: {x: 0.015030923, y: -0.0037334736, z: -0.032185245}
+      rotation: {x: 0.56772846, y: -0.42152628, z: 0.42152625, w: 0.5677285}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.201
+      parentName: general_potat(Clone)
+      position: {x: 0.011675949, y: -0.0037334736, z: -0.03410097}
+      rotation: {x: 0.56772846, y: -0.42152628, z: 0.42152625, w: 0.5677285}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Plane.202
+      parentName: general_potat(Clone)
+      position: {x: 0.08562984, y: -0.0042011337, z: -0.015592351}
+      rotation: {x: 0.706383, y: 0.031985573, z: -0.031985573, w: 0.706383}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.203
+      parentName: general_potat(Clone)
+      position: {x: 0.08340836, y: -0.0040780418, z: -0.014509926}
+      rotation: {x: 0.7070771, y: -0.006480799, z: 0.0064807995, w: 0.7070771}
+      scale: {x: 3.2258937, y: 3.2258937, z: 3.2258947}
+    - name: Plane.204
+      parentName: general_potat(Clone)
+      position: {x: 0.08077348, y: -0.0040780418, z: -0.0143041015}
+      rotation: {x: 0.7070771, y: -0.006480799, z: 0.0064807995, w: 0.7070771}
+      scale: {x: 3.2258937, y: 3.2258937, z: 3.2258947}
+    - name: Plane.205
+      parentName: general_potat(Clone)
+      position: {x: 0.07796412, y: -0.0040780418, z: -0.013979078}
+      rotation: {x: 0.70607454, y: -0.038195677, z: 0.03819569, w: 0.7060744}
+      scale: {x: 3.2258942, y: 3.2258947, z: 3.2258947}
+    - name: Plane.206
+      parentName: general_potat(Clone)
+      position: {x: 0.07527062, y: -0.0040780418, z: -0.013772585}
+      rotation: {x: 0.70335114, y: -0.072782695, z: 0.0727827, w: 0.703351}
+      scale: {x: 3.2258945, y: 3.2258945, z: 3.2258947}
+    - name: Plane.207
+      parentName: general_potat(Clone)
+      position: {x: 0.072515205, y: -0.0040780418, z: -0.013858415}
+      rotation: {x: 0.6991298, y: -0.1059128, z: 0.1059128, w: 0.69912976}
+      scale: {x: 3.2258945, y: 3.225895, z: 3.2258947}
+    - name: Plane.208
+      parentName: general_potat(Clone)
+      position: {x: 0.069938906, y: -0.0040780418, z: -0.013653256}
+      rotation: {x: 0.6931708, y: -0.13969398, z: 0.13969399, w: 0.69317067}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.209
+      parentName: general_potat(Clone)
+      position: {x: 0.06729667, y: -0.0040780418, z: -0.014092006}
+      rotation: {x: 0.6931708, y: -0.13969398, z: 0.13969399, w: 0.69317067}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.210
+      parentName: general_potat(Clone)
+      position: {x: 0.064706355, y: -0.0040780418, z: -0.0151173975}
+      rotation: {x: 0.6931708, y: -0.13969398, z: 0.13969399, w: 0.69317067}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.211
+      parentName: general_potat(Clone)
+      position: {x: 0.062225103, y: -0.0040780418, z: -0.016002398}
+      rotation: {x: 0.6931708, y: -0.13969398, z: 0.13969399, w: 0.69317067}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.212
+      parentName: general_potat(Clone)
+      position: {x: 0.059476506, y: -0.0040780418, z: -0.01677691}
+      rotation: {x: 0.6931708, y: -0.13969398, z: 0.13969399, w: 0.69317067}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.213
+      parentName: general_potat(Clone)
+      position: {x: 0.056940928, y: -0.0040780418, z: -0.017715015}
+      rotation: {x: 0.6931708, y: -0.13969398, z: 0.13969399, w: 0.69317067}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.214
+      parentName: general_potat(Clone)
+      position: {x: 0.054295477, y: -0.0040780418, z: -0.01886675}
+      rotation: {x: 0.69520724, y: -0.12917833, z: 0.12917836, w: 0.6952071}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.215
+      parentName: general_potat(Clone)
+      position: {x: 0.05170741, y: -0.0040780418, z: -0.019696811}
+      rotation: {x: 0.6877983, y: -0.16411442, z: 0.16411442, w: 0.6877982}
+      scale: {x: 3.2258945, y: 3.225895, z: 3.2258947}
+    - name: Plane.216
+      parentName: general_potat(Clone)
+      position: {x: 0.04917673, y: -0.0040780418, z: -0.0202052}
+      rotation: {x: 0.6814392, y: -0.18878712, z: 0.1887871, w: 0.6814393}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.217
+      parentName: general_potat(Clone)
+      position: {x: 0.046796788, y: -0.0040780418, z: -0.021628566}
+      rotation: {x: 0.6814392, y: -0.18878712, z: 0.1887871, w: 0.6814393}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.218
+      parentName: general_potat(Clone)
+      position: {x: 0.04434012, y: -0.0040780418, z: -0.022440745}
+      rotation: {x: 0.6814392, y: -0.18878712, z: 0.1887871, w: 0.6814393}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.219
+      parentName: general_potat(Clone)
+      position: {x: 0.041993845, y: -0.0040780418, z: -0.023181126}
+      rotation: {x: 0.6603276, y: -0.25291806, z: 0.2529181, w: 0.66032755}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.220
+      parentName: general_potat(Clone)
+      position: {x: 0.039717298, y: -0.0040780418, z: -0.024214529}
+      rotation: {x: 0.6603276, y: -0.25291806, z: 0.2529181, w: 0.66032755}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.221
+      parentName: general_potat(Clone)
+      position: {x: 0.03740464, y: -0.0040780418, z: -0.025210993}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.222
+      parentName: general_potat(Clone)
+      position: {x: 0.035167005, y: -0.0040780418, z: -0.026420983}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.223
+      parentName: general_potat(Clone)
+      position: {x: 0.033074792, y: -0.0040780418, z: -0.027879726}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.224
+      parentName: general_potat(Clone)
+      position: {x: 0.030934853, y: -0.0040780418, z: -0.029189667}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.225
+      parentName: general_potat(Clone)
+      position: {x: 0.028697778, y: -0.0040780418, z: -0.030350246}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.226
+      parentName: general_potat(Clone)
+      position: {x: 0.026654974, y: -0.0040780418, z: -0.031809554}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.227
+      parentName: general_potat(Clone)
+      position: {x: 0.024562763, y: -0.0040780418, z: -0.033268295}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.228
+      parentName: general_potat(Clone)
+      position: {x: 0.0222774, y: -0.0040780418, z: -0.034329485}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.229
+      parentName: general_potat(Clone)
+      position: {x: 0.020710945, y: -0.0040780418, z: -0.036071587}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.230
+      parentName: general_potat(Clone)
+      position: {x: 0.018198615, y: -0.0040780418, z: -0.036576282}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.231
+      parentName: general_potat(Clone)
+      position: {x: 0.015420269, y: -0.0040780418, z: -0.03702463}
+      rotation: {x: 0.6462698, y: -0.2869414, z: 0.28694147, w: 0.64626974}
+      scale: {x: 3.2258947, y: 3.225895, z: 3.2258947}
+    - name: Plane.232
+      parentName: general_potat(Clone)
+      position: {x: 0.012289338, y: -0.0040780418, z: -0.036402747}
+      rotation: {x: 0.5804839, y: -0.4037802, z: 0.40378016, w: 0.5804839}
+      scale: {x: 3.2258945, y: 3.2258945, z: 3.2258947}
+    - name: Plane.233
+      parentName: general_potat(Clone)
+      position: {x: -0.01716766, y: -0.002977964, z: -0.027828466}
+      rotation: {x: -0.48545715, y: 0.51413167, z: -0.5141312, w: -0.48545763}
+      scale: {x: 12.723202, y: 12.723202, z: 12.723207}
+    - name: Plane.234
+      parentName: general_potat(Clone)
+      position: {x: -0.008836865, y: -0.0032906819, z: -0.033393387}
+      rotation: {x: 0.4302227, y: -0.561167, z: 0.5611671, w: 0.43022263}
+      scale: {x: 7.971901, y: 7.971901, z: 7.971901}
+    - name: Plane.235
+      parentName: general_potat(Clone)
+      position: {x: -0.002363701, y: -0.00353515, z: -0.03493069}
+      rotation: {x: 0.4302227, y: -0.561167, z: 0.5611671, w: 0.43022263}
+      scale: {x: 4.9245105, y: 4.9245105, z: 4.9245105}
+    - name: Plane.236
+      parentName: general_potat(Clone)
+      position: {x: 0.005456433, y: -0.0037334736, z: -0.035236962}
+      rotation: {x: 0.4302227, y: -0.561167, z: 0.5611671, w: 0.43022263}
+      scale: {x: 4.464726, y: 4.464726, z: 4.464726}
+    - name: Sphere
+      parentName: general_potat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.70065945, y: 0.05411642, z: -0.12338533, w: 0.7006596}
+      scale: {x: 114.58361, y: 230.32362, z: 84.894806}
+    - name: Sphere.001
+      parentName: general_potat(Clone)
+      position: {x: -0.0025449297, y: 0.095038295, z: -0.29607838}
+      rotation: {x: 0.011504039, y: -0.5702125, z: 0.8213289, w: -0.012011345}
+      scale: {x: 109.99687, y: 273.0687, z: 87.29927}
+    - name: Sphere.002
+      parentName: general_potat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Sphere.003
+      parentName: general_potat(Clone)
+      position: {x: -0.00095009716, y: 0.10766567, z: -0.2534494}
+      rotation: {x: -0.8533451, y: -0.0052976003, z: 0.032102842, w: 0.5203302}
+      scale: {x: 138.44366, y: 231.1201, z: 135.89825}
+    - name: Sphere.004
+      parentName: general_potat(Clone)
+      position: {x: -0.01706902, y: -0.32441157, z: 0.23222257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1094.218, y: 1094.218, z: 1094.218}
+    - name: Sphere.005
+      parentName: general_potat(Clone)
+      position: {x: -0.0013312054, y: 0.17494765, z: 0.014979831}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 542.8307, y: 542.8307, z: 542.8307}
+    - name: Sphere.006
+      parentName: general_potat(Clone)
+      position: {x: -0.052731864, y: 0.18024509, z: -0.14187898}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 53.61202, y: 53.61202, z: 53.61202}
+    - name: Sphere.007
+      parentName: general_potat(Clone)
+      position: {x: 0.044866007, y: 0.17979309, z: -0.14187898}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 53.61202, y: 53.61202, z: 53.61202}
+    - name: Sphere.008
+      parentName: general_potat(Clone)
+      position: {x: -0.0013312054, y: 0.17494765, z: 0.014979831}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 542.8307, y: 542.8307, z: 542.8307}
+    - name: Sphere.009
+      parentName: general_potat(Clone)
+      position: {x: -1.0804962, y: -0.12798508, z: 0.2800431}
+      rotation: {x: -0.5, y: -0.49999997, z: 0.5, w: 0.50000006}
+      scale: {x: 141.01125, y: 141.01125, z: 108.46312}
+    - name: Sphere.010
+      parentName: general_potat(Clone)
+      position: {x: 1.0414859, y: -0.12798508, z: 0.2800431}
+      rotation: {x: -0.49999997, y: 0.5000001, z: 0.5, w: -0.49999988}
+      scale: {x: -141.01123, y: -141.01123, z: -108.46312}
+    - name: Sphere.011
+      parentName: general_potat(Clone)
+      position: {x: 0.26244807, y: -1.2298936, z: 0.33385408}
+      rotation: {x: -0.6983621, y: -0.14202654, z: 0.08625489, w: 0.69618887}
+      scale: {x: 395.5781, y: 399.11252, z: 1288.6705}
+    - name: Sphere.012
+      parentName: general_potat(Clone)
+      position: {x: -0.28929606, y: -1.2298936, z: 0.33385408}
+      rotation: {x: -0.6947995, y: 0.07649889, z: -0.11622948, w: 0.70561486}
+      scale: {x: 395.57806, y: 399.11252, z: 1288.6704}
+    - name: Sphere.013
+      parentName: general_potat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 18.182962, y: 516.688, z: 18.924707}
+    - name: Sphere.014
+      parentName: general_potat(Clone)
+      position: {x: -0.00095009716, y: 0.10509684, z: -0.26415506}
+      rotation: {x: -0.85334516, y: -0.0052976036, z: 0.03210285, w: 0.52033013}
+      scale: {x: 138.38414, y: 204.31252, z: 131.14388}
+    - name: Sphere.015
+      parentName: general_potat(Clone)
+      position: {x: -0.0025449297, y: 0.095038295, z: -0.29307926}
+      rotation: {x: 0.011504002, y: -0.5702125, z: 0.8213289, w: -0.012012531}
+      scale: {x: 109.99636, y: 238.4868, z: 85.469826}
+    - name: Vert.002
+      parentName: general_potat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 32.50081, y: 32.50081, z: 32.50081}
+    - name: mixamorig:Hips
+      parentName: general_potat(Clone)
+      position: {x: 0.000025956224, y: 1.1503879, z: -0.0056111696}
+      rotation: {x: 0.00021758025, y: 1, z: -0.0000002648385, w: -0.0000067911187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.11760213, y: -0.057770994, z: -0.004154858}
+      rotation: {x: -0.0038505043, y: 0.014498823, z: 0.9997521, w: -0.016453357}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: 3.1974423e-18, y: 0.47685814, z: -4.5474734e-17}
+      rotation: {x: 0.0019701535, y: -0.000028228269, z: -0.032572504, w: 0.99946743}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -0, y: 0.49577552, z: 0}
+      rotation: {x: 0.095694, y: 0.8822839, z: -0.45144618, w: -0.092812136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -6.82121e-17, y: 0.20203803, z: 0}
+      rotation: {x: 0.32721964, y: -0.036106538, z: 0.01251332, w: 0.94417536}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -1.7053025e-17, y: 0.09997086, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.11760213, y: -0.057770994, z: -0.0043943115}
+      rotation: {x: 0.0027618217, y: -0.0023215418, z: 0.99985194, w: 0.016828656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 1.7053025e-17, y: 0.47672817, z: 0}
+      rotation: {x: 0.03510895, y: 0.00073207106, z: 0.03237813, w: 0.99885863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: 1.13686835e-17, y: 0.49663955, z: 0}
+      rotation: {x: -0.095777586, y: 0.8792891, z: -0.45749933, w: 0.09149774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -9.094947e-17, y: 0.19729596, z: -1.8189894e-16}
+      rotation: {x: 0.33598053, y: 0.035492558, z: -0.012670945, w: 0.94111466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 1.9895196e-17, y: 0.09875573, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: 4.8316903e-17, y: 0.103905804, z: -0.009938501}
+      rotation: {x: -0.04766173, y: 0.0000036362915, z: -0.00021770361, w: 0.9988635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.12177662, z: 0}
+      rotation: {x: 1.5375713e-26, y: 2.2509347e-14, z: -6.8308125e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.1391734, z: -4.5474734e-17}
+      rotation: {x: 0, y: 0, z: 6.3108872e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.06931411, y: 0.13522004, z: -0.0016159373}
+      rotation: {x: -0.55366594, y: -0.43619728, z: 0.5652178, w: -0.42861968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -0, y: 0.15116486, z: 0}
+      rotation: {x: -0.12698989, y: -0.002540935, z: 0.0101444265, w: 0.9918489}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: 4.5474734e-17, y: 0.38884398, z: 1.13686835e-17}
+      rotation: {x: -0.00000029039452, y: 0.0009407075, z: 0.000000083569994, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -0, y: 0.37688413, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.06931411, y: 0.13530083, z: -0.0024605445}
+      rotation: {x: 0.55003124, y: -0.43887854, z: 0.5682873, w: 0.42649826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: 4.5474734e-17, y: 0.15116486, z: 1.13686835e-17}
+      rotation: {x: -0.12637171, y: 0.0032781272, z: -0.016109908, w: 0.99184674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -0, y: 0.3888514, z: 0}
+      rotation: {x: -0.00000044254824, y: -0.0006485996, z: 0.00000042038937, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0, y: 0.37688005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -2.8421709e-18, y: 0.15656999, z: -0.000000007700171}
+      rotation: {x: 0.36154285, y: 0.000000030436926, z: 0.000000016839488, w: 0.9323555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: 4.916956e-16, y: 0.06695588, z: -0.1357093}
+      rotation: {x: 0, y: -0, z: -5.2763655e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: 1.1027623e-15, y: 0.15055537, z: -0.30515268}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5bd5f0b4705230f48833e44ce01e1949,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

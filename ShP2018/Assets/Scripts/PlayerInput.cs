@@ -12,7 +12,7 @@ public class PlayerInput : MonoBehaviour {
 		Vector2 motion = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
 		a.SetFloat("motionX", motion.x);
 		a.SetFloat("motionZ", motion.y);
-		motion *= Time.deltaTime * speed;
-		transform.Translate(motion.x, 0, motion.y, Space.Self);
+//		motion *= Time.deltaTime * speed;
+//		transform.Translate(motion.x, 0, motion.y, Space.Self);
 	}
 }
